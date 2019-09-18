@@ -1,0 +1,7 @@
+{
+	"player":"name",
+	"default_sleep":20,
+	"quest_rate":0.4,
+	"start_time":"08:00:00",
+	"end_time":"20:00:00"
+}
